@@ -1,0 +1,9 @@
+APPLICATION_TITLE#0="\u540c\u6b65\u7f51\u7edc\u65f6\u95f4";
+NTP_SERVERS#0={
+    "time.windows.com",
+    "time.nist.gov",
+    "pool.ntp.org"
+};
+LABEL_CHOOSE_NTP_SERVER#0="\u9009\u62e9\u004e\u0054\u0050\u670d\u52a1\u5668";
+BUTTON_SYNC_TIME#0="\u66f4\u65b0\u65f6\u95f4";
+INFORMATION_TIME_UPDATED_TO#0="\u65f6\u95f4\u5df2\u540c\u6b65\u4e3a";

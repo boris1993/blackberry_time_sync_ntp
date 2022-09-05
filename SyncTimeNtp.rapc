@@ -1,0 +1,10 @@
+MIDlet-Name: SyncTimeNtp
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: boris1993
+MIDlet-Description: Sync Time with NTP
+MIDlet-Jar-URL: SyncTimeNtp.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Sync Time with NTP,resource/NTP.png,
+RIM-MIDlet-Flags-1: 0

@@ -1,0 +1,4 @@
+APPLICATION_TITLE#0="Sync time over NTP";
+LABEL_CHOOSE_NTP_SERVER#0="Choose the NTP server:";
+BUTTON_SYNC_TIME#0="Sync";
+INFORMATION_TIME_UPDATED_TO#0="Time has been updated to";
