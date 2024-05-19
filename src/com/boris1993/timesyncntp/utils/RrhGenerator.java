@@ -5,10 +5,7 @@ import com.boris1993.timesyncntp.LocalizationResource;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.lang.reflect.Field;
-import java.nio.file.Paths;
 import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Collectors;
 
 public class RrhGenerator {
     private static final List<String> SKIPPING_FIELDS = Arrays.asList("BUNDLE_ID", "BUNDLE_NAME");
